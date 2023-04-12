@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhamedZaky
 - 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on investgating Datasets and manipulate data
 - 📫 How to reach me 
 
